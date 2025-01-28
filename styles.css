@@ -1,6 +1,9 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #000000;
+    background-color: #000000 !important; /* Fondo gris claro con prioridad */
+    margin: 0;
+    padding: 0;
+    height: 100vh;
     text-align: center;
 }
 .container {
