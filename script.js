@@ -6,7 +6,7 @@ function mostrarInvitacion() {
         invitacionDiv.style.display = 'block';
         invitacionDiv.innerHTML = `
             <h2>¡Hola, ${nombre}!</h2>
-            <p> O QuiSE dEciR </p>
+            <p> tu identidad es un secreto </p>
             <img src="invitacion_${nombre}.jpg" alt="Invitación personalizada">
         `;
     } else {
