@@ -26,6 +26,7 @@ body {
     display: none;
 }
 .invitacion img {
-    width: 1%;
+    width: 1% !important;
+    height: auto !important;
     max-width: 300px;
 }
